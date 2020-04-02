@@ -1,0 +1,95 @@
+tcp        0      0 127.0.0.1:9009          0.0.0.0:*               LISTEN      30630/java          
+tcp        0      0 0.0.0.0:5938            0.0.0.0:*               LISTEN      -                   
+tcp        0      0 127.0.0.53:53           0.0.0.0:*               LISTEN      -                   
+tcp        0      0 127.0.0.1:631           0.0.0.0:*               LISTEN      -                   
+tcp        0      0 127.0.0.1:5945          0.0.0.0:*               LISTEN      -                   
+tcp        0      0 0.0.0.0:17500           0.0.0.0:*               LISTEN      4079/dropbox        
+tcp        0      0 127.0.0.1:6942          0.0.0.0:*               LISTEN      30630/java          
+tcp        0      0 127.0.0.1:17600         0.0.0.0:*               LISTEN      4079/dropbox        
+tcp        0      0 127.0.0.1:17603         0.0.0.0:*               LISTEN      4079/dropbox        
+tcp        0      0 0.0.0.0:3689            0.0.0.0:*               LISTEN      15470/rhythmbox     
+tcp        0      0 127.0.0.1:44299         0.0.0.0:*               LISTEN      -                   
+tcp        0      0 127.0.0.1:63342         0.0.0.0:*               LISTEN      30630/java          
+tcp6       0      0 :::80                   :::*                    LISTEN      -                   
+tcp6       0      0 :::5938                 :::*                    LISTEN      -                   
+tcp6       0      0 :::1716                 :::*                    LISTEN      4015/kdeconnectd    
+tcp6       0      0 ::1:631                 :::*                    LISTEN      -                   
+tcp6       0      0 :::17500                :::*                    LISTEN      4079/dropbox        
+tcp6       0      0 :::8000                 :::*                    LISTEN      -                   
+tcp6       0      0 :::9090                 :::*                    LISTEN      -                   
+tcp6       0      0 :::3689                 :::*                    LISTEN      15470/rhythmbox     
+tcp6       0      0 :::5900                 :::*                    LISTEN      -                   
+unix  2      [ ACC ]     STREAM     LISTENING     44070    3611/gnome-session-  @/tmp/.ICE-unix/3611
+unix  2      [ ACC ]     STREAM     LISTENING     42515    -                    @/tmp/dbus-GKl2htiE
+unix  2      [ ACC ]     SEQPACKET  LISTENING     15298    -                    /run/udev/control
+unix  2      [ ACC ]     STREAM     LISTENING     43072    3567/systemd         /run/user/1000/systemd/private
+unix  2      [ ACC ]     STREAM     LISTENING     33458    -                    /run/user/123/systemd/private
+unix  2      [ ACC ]     STREAM     LISTENING     34434    -                    @/tmp/dbus-jFU2OlkI
+unix  2      [ ACC ]     STREAM     LISTENING     43076    3567/systemd         /run/user/1000/bus
+unix  2      [ ACC ]     STREAM     LISTENING     33462    -                    /run/user/123/gnupg/S.dirmngr
+unix  2      [ ACC ]     STREAM     LISTENING     43077    3567/systemd         /run/user/1000/snapd-session-agent.socket
+unix  2      [ ACC ]     STREAM     LISTENING     33463    -                    /run/user/123/gnupg/S.gpg-agent.extra
+unix  2      [ ACC ]     STREAM     LISTENING     43078    3567/systemd         /run/user/1000/gnupg/S.dirmngr
+unix  2      [ ACC ]     STREAM     LISTENING     33464    -                    /run/user/123/snapd-session-agent.socket
+unix  2      [ ACC ]     STREAM     LISTENING     43079    3567/systemd         /run/user/1000/gnupg/S.gpg-agent.ssh
+unix  2      [ ACC ]     STREAM     LISTENING     33465    -                    /run/user/123/bus
+unix  2      [ ACC ]     STREAM     LISTENING     43080    3567/systemd         /run/user/1000/gnupg/S.gpg-agent
+unix  2      [ ACC ]     STREAM     LISTENING     33466    -                    /run/user/123/gnupg/S.gpg-agent.ssh
+unix  2      [ ACC ]     STREAM     LISTENING     43081    3567/systemd         /run/user/1000/gnupg/S.gpg-agent.extra
+unix  2      [ ACC ]     STREAM     LISTENING     46821    4079/dropbox         /home/opitz/.dropbox/command_socket
+unix  2      [ ACC ]     STREAM     LISTENING     43082    3567/systemd         /run/user/1000/gnupg/S.gpg-agent.browser
+unix  2      [ ACC ]     STREAM     LISTENING     33467    -                    /run/user/123/pulse/native
+unix  2      [ ACC ]     STREAM     LISTENING     32889    -                    /run/NetworkManager/private-dhcp
+unix  2      [ ACC ]     STREAM     LISTENING     33468    -                    /run/user/123/gnupg/S.gpg-agent.browser
+unix  2      [ ACC ]     STREAM     LISTENING     39838    -                    /run/user/1000/keyring/control
+unix  2      [ ACC ]     STREAM     LISTENING     33469    -                    /run/user/123/gnupg/S.gpg-agent
+unix  2      [ ACC ]     STREAM     LISTENING     32837    -                    /var/snap/canonical-livepatch/90/livepatchd.sock
+unix  2      [ ACC ]     STREAM     LISTENING     38126    -                    /run/user/123/wayland-0
+unix  2      [ ACC ]     STREAM     LISTENING     44126    -                    /run/user/1000/keyring/ssh
+unix  2      [ ACC ]     STREAM     LISTENING     10683589 -                    @/containerd-shim/moby/83498826849f691ff93057777017571fec896b06c2c6f90076ada9f2229b786f/shim.sock@
+unix  2      [ ACC ]     STREAM     LISTENING     44127    -                    /run/user/1000/keyring/pkcs11
+unix  2      [ ACC ]     STREAM     LISTENING     43294    3760/pulseaudio      /run/user/1000/pulse/native
+unix  2      [ ACC ]     STREAM     LISTENING     35685    -                    @/tmp/.ICE-unix/2505
+unix  2      [ ACC ]     STREAM     LISTENING     43104    3596/Xorg            @/tmp/.X11-unix/X0
+unix  2      [ ACC ]     STREAM     LISTENING     4578030  -                    /run/user/1000/keyring/.ssh
+unix  2      [ ACC ]     STREAM     LISTENING     23298    -                    @irqbalance1346.sock
+unix  2      [ ACC ]     STREAM     LISTENING     11567719 -                    /run/cups/cups.sock
+unix  2      [ ACC ]     STREAM     LISTENING     28709    -                    /run/uuidd/request
+unix  2      [ ACC ]     STREAM     LISTENING     43310    3793/ibus-daemon     @/tmp/dbus-lPNLQjfN
+unix  2      [ ACC ]     STREAM     LISTENING     28711    -                    /var/run/dbus/system_bus_socket
+unix  2      [ ACC ]     STREAM     LISTENING     27810    -                    /run/avahi-daemon/socket
+unix  2      [ ACC ]     STREAM     LISTENING     27812    -                    /run/snapd.socket
+unix  2      [ ACC ]     STREAM     LISTENING     27814    -                    /run/snapd-snap.socket
+unix  2      [ ACC ]     STREAM     LISTENING     27818    -                    /var/run/docker.sock
+unix  2      [ ACC ]     STREAM     LISTENING     34436    -                    @/tmp/dbus-Y5wuLCrw
+unix  2      [ ACC ]     STREAM     LISTENING     44071    3611/gnome-session-  /tmp/.ICE-unix/3611
+unix  2      [ ACC ]     STREAM     LISTENING     11567732 -                    /var/run/cups/cups.sock
+unix  2      [ ACC ]     STREAM     LISTENING     7607443  20483/soffice.bin    /tmp/OSL_PIPE_1000_SingleOfficeIPC_485e96e8f397a52e2d5616afeb36641b
+unix  2      [ ACC ]     STREAM     LISTENING     34435    -                    @/tmp/dbus-U6UiwmrN
+unix  2      [ ACC ]     STREAM     LISTENING     29260    -                    /run/containerd/containerd.sock
+unix  2      [ ACC ]     STREAM     LISTENING     10683610 -                    @/containerd-shim/moby/39b32b1e7a3f102a7ea1cdf3a6451a2fd89d3039fccca9823b32a29027050272/shim.sock@
+unix  2      [ ACC ]     STREAM     LISTENING     39008    -                    @/tmp/dbus-HoR1IoooNZ
+unix  2      [ ACC ]     STREAM     LISTENING     11086978 -                    @/containerd-shim/moby/ff1942c88cdb641bc221cd555196af2f22294fc98ff4b07a7ac2bc03068e1bea/shim.sock@
+unix  2      [ ACC ]     STREAM     LISTENING     43167    3706/dbus-daemon     @/tmp/dbus-si9nLHukir
+unix  2      [ ACC ]     STREAM     LISTENING     11198764 10167/gvfsd-trash    @/dbus-vfs-daemon/socket-by7mvVy8
+unix  2      [ ACC ]     STREAM     LISTENING     10682085 -                    @/containerd-shim/moby/fe20327c86bca22266999cbf8b5a5bbeab17f4d168fd3c5f1fc7c28b82daf764/shim.sock@
+unix  2      [ ACC ]     STREAM     LISTENING     42516    -                    @/tmp/dbus-NCtjhM0j
+unix  2      [ ACC ]     STREAM     LISTENING     33413    -                    /var/run/docker/metrics.sock
+unix  2      [ ACC ]     STREAM     LISTENING     46822    4079/dropbox         /home/opitz/.dropbox/iface_socket
+unix  2      [ ACC ]     STREAM     LISTENING     43150    -                    /tmp/ssh-KhzXEl9pDv99/agent.3611
+unix  2      [ ACC ]     STREAM     LISTENING     34437    -                    @/tmp/dbus-FRLNR2XP
+unix  2      [ ACC ]     STREAM     LISTENING     33705    -                    @/tmp/.X11-unix/X1024
+unix  2      [ ACC ]     STREAM     LISTENING     10683540 -                    @/containerd-shim/moby/602bbfc9fe4f2adac99593bfca8f267631326d1bc4a062483783c2e30836ecf1/shim.sock@
+unix  2      [ ACC ]     STREAM     LISTENING     32836    -                    /var/snap/canonical-livepatch/90/livepatchd-priv.sock
+unix  2      [ ACC ]     STREAM     LISTENING     43105    3596/Xorg            /tmp/.X11-unix/X0
+unix  2      [ ACC ]     STREAM     LISTENING     35686    -                    /tmp/.ICE-unix/2505
+unix  2      [ ACC ]     STREAM     LISTENING     28713    -                    /run/acpid.socket
+unix  2      [ ACC ]     STREAM     LISTENING     33706    -                    /tmp/.X11-unix/X1024
+unix  2      [ ACC ]     STREAM     LISTENING     1065352  8413/chrome          /tmp/.com.google.Chrome.8A6FbL/SingletonSocket
+unix  2      [ ACC ]     STREAM     LISTENING     15291    -                    /run/systemd/private
+unix  2      [ ACC ]     STREAM     LISTENING     15302    -                    /run/systemd/fsck.progress
+unix  2      [ ACC ]     STREAM     LISTENING     38300    -                    /run/docker/libnetwork/069c9cb8ae35bb989e3b2301c95d91393d6617c041efad0283c73b29c644214f.sock
+unix  2      [ ACC ]     STREAM     LISTENING     37269    -                    @/tmp/dbus-TeRAUEF5
+unix  2      [ ACC ]     STREAM     LISTENING     15309    -                    /run/systemd/journal/stdout
+unix  2      [ ACC ]     STREAM     LISTENING     10684065 -                    @/containerd-shim/moby/7128cec22f41d9dfae3c2ccc160ec3fd8f3180acfdc89f90d0b966fe184c4f9a/shim.sock@
+unix  2      [ ACC ]     STREAM     LISTENING     47374    4050/opitz --pid=40  /tmp/.org.chromium.Chromium.MVHiVP/SS
